@@ -1,0 +1,12 @@
+html{
+    font-style: italic;
+    text-align: center;
+    background-color: #EEFF66;
+    color: #000066
+    
+}
+
+.hetek{
+    container: flex;
+    justify-content: space-evenly;
+}
